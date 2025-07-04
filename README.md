@@ -96,6 +96,12 @@ The Salary structure show that there is a significant gender bias in the Legal d
 Palmora did not meet the industry stand of N90,000 minimum wage as my analysis reveals that of the **1377** Employees of Palmora, only **490** earn N90,000 and above while a huge number of **887** earn below N90,000.
 
 
+## Recommendations
+- Palmora Group needs to balance Salary in relation to Gender Disparity specially in the Legal Department
+- Palmora Group needd to increase employees salary to meet the industry standard of a minimum salary on N90,000
+- Employees in Lagos Region seems to earn lesser amount compare to employees in others locations this needs to be looked at
+  
+
 ## About Me
 Friday Agboro ( Brand Management  |  Graphics Designer | PowerPoint Presentation Formatting |  Data Analyst )
 
