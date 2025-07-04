@@ -57,7 +57,8 @@ I used the "Card" to highlight major indices of my findings
 
 ## Dashboard
 
-![PALMORA DASHBOARD](https://github.com/user-attachments/assets/d201daed-1474-453f-aa13-428fcf2c9da4)
+![PALMORA DASHBOARD](https://github.com/user-attachments/assets/0224ef41-21c2-4353-bda2-704f41525f3a)
+
 
 ## My Findings
 
