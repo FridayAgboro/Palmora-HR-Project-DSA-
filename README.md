@@ -6,7 +6,7 @@ This project is about the Palmoria Group, a manufacturing company based in Niger
 To assist HR professionals and data analysts in identifying key workforce insights and taking data-driven actions to improve fairness, representation, and compensation alignment.
 
 ## Raw Dataset Highlights
-- **Number of Dataset Provided**: 2 ( **Palmoria Group emp-data** and **Palmoria Group Bonus Rules**) 
+- **Number of Dataset Provided**: 2 ( **Palmora Group emp-data** and **Palmora Group Bonus Rules**) 
 - **Palmoria Group emp-data**: Has 6 columns and 1016 Rows
 - **Palmoria Group Bonus Rules**: Has 6 Columns and 13 Rows
 
@@ -16,7 +16,7 @@ To assist HR professionals and data analysts in identifying key workforce insigh
 
 ## Data Cleaning Process
 - **Ingestion:** Getting the Data Set into Power Query Environment
-- **TransformationUsing:** On the Gender Column, I Changed the blanking rows to Unknown. I delected the rows with "null" under department column by unchecking "null" in the drop-down on the column. I also deleted the blank row in the salary column by unchecking the "blank" in the drop-down on the salary column.  
+- **TransformationUsing:** On the Gender Column, I Changed the blanking rows to Unknown. I delected the rows with "null" under department column by unchecking "null" in the drop-down on the column. I also deleted the blank row in the salary column by unchecking the "blank" in the drop-down on the salary column.  I selected the department column and unpivot other columns. I brought in the "Palmora Group Bonus Rules" file. 
 
 ## Dashboard
 
