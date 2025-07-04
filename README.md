@@ -16,6 +16,7 @@ To assist HR professionals and data analysts in identifying key workforce insigh
 
 
 ## My Findings
+### Gender Distribution
 Gender Distribution is fair across Palmora Group as indicated by my findings across the various regions as highlighted below:
 
 **Abuja**: Male 229 | Female 247  | Unknown 25
