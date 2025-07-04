@@ -21,6 +21,10 @@ To assist HR professionals and data analysts in identifying key workforce insigh
 - **I used custom column** To create a Bonus Column
 - **I used Condition column** To create other columns like (New Salary, Salary Above 90000, Salary Groupng - which I used as Salary Band)
 
+## Creating the Dashboard
+
+
+
 ## Dashboard
 
 ![PALMORA DASHBOARD](https://github.com/user-attachments/assets/d201daed-1474-453f-aa13-428fcf2c9da4)
