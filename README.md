@@ -16,7 +16,10 @@ To assist HR professionals and data analysts in identifying key workforce insigh
 
 ## Data Cleaning Process
 - **Ingestion:** Getting the Data Set into Power Query Environment
-- **TransformationUsing:** On the Gender Column, I Changed the blanking rows to Unknown. I delected the rows with "null" under department column by unchecking "null" in the drop-down on the column. I also deleted the blank row in the salary column by unchecking the "blank" in the drop-down on the salary column.  I selected the department column and unpivot other columns. I brought in the "Palmora Group Bonus Rules" file. 
+- **TransformationUsing:** On the Gender Column, I replaced value blank with Unknown. I delected the rows with "null" under department column by unchecking "null" in the drop-down on the column. I also deleted the blank row in the salary column by unchecking the "blank" in the drop-down on the salary column.  I selected the department column and unpivot other columns. I brought in the "Palmora Group Bonus Rules" file.
+- **Creating the Bonus Rules** I used merge query then selected the Employee File first and also selected the Bonus rules file after which I select the columns similar to both of them.
+- **I used custom column** To create a Bonus Column
+- **I used Condition column** To create other columns like (New Salary, Salary Above 90000, Salary Groupng - which I used as Salary Band)
 
 ## Dashboard
 
