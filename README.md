@@ -12,7 +12,7 @@ To assist HR professionals and data analysts in identifying key workforce insigh
 
 ## Dashboard
 
-![PALMORA DASHBOARD](https://github.com/user-attachments/assets/71baf3a1-645e-47af-a7ae-f95d95b12645)
+![PALMORA DASHBOARD](https://github.com/user-attachments/assets/36f88bd6-8261-4b16-b286-5b99d0a7e6d8)
 
 
 ## My Findings
