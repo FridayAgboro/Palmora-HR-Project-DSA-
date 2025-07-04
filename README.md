@@ -1,2 +1,6 @@
-# Palmora-HR-Project-DSA-
-This project is the Palmoria Group, a manufacturing company based in Nigeria, that is embroiled in issues bordering on gender inequality in its 3 regions. Unfortunately, the media recently published the news with the headline “Palmoria, the Manufacturing Patriarchy”.  I am looking to providing solution to the issues with this project.
+# Palmora Group HR Project (DSA)
+This project is about the Palmoria Group, a manufacturing company based in Nigeria, that is embroiled in issues bordering on gender inequality in its 3 regions.  I am looking to providing solution to the gender issues with this project.
+
+
+## Project Goal
+To assist HR professionals and data analysts in identifying key workforce insights and taking data-driven actions to improve fairness, representation, and compensation alignment.
