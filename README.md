@@ -92,7 +92,7 @@ Gender Distribution is fair across Palmora Group as indicated by my findings acr
 The Salary structure show that there is a significant gender bias in the Legal department more than any other department (show Male total salary be N4,482,763 as against N2842022 for female).
 
 ### How Palmora stand in relation to N90,000 Minimum Wage for Manufacturing Companies
-Palmora did not meet the industry stand of N90,000 minimum wage as my analysis reveals that of the 1377 Employees of Palmora, only 490 earn N90,000 and above while a huge number of 887 earn below N90,000.
+Palmora did not meet the industry stand of N90,000 minimum wage as my analysis reveals that of the **1377** Employees of Palmora, only **490** earn N90,000 and above while a huge number of **887** earn below N90,000.
 
 
 ## About Me
