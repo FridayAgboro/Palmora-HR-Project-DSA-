@@ -10,6 +10,10 @@ To assist HR professionals and data analysts in identifying key workforce insigh
 - **Palmoria Group emp-data**: Has 6 columns and 1016 Rows
 - **Palmoria Group Bonus Rules**: Has 6 Columns and 13 Rows
 
+![Raw pal](https://github.com/user-attachments/assets/bb7622bd-cb7b-4fae-841f-24c23cdefc0d)
+
+![Raw pal 2](https://github.com/user-attachments/assets/87a098ec-30d7-41e6-b19b-b5c5592f3130)
+
 ## Tools Used
 - Power Query
 - Microsoft Power BI
