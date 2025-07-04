@@ -9,3 +9,7 @@ To assist HR professionals and data analysts in identifying key workforce insigh
 - **Total Numbers of Employees**: 1377
 - **Numbers of Regions**: 3
 - **Numbers of Departments**: 12
+
+## Dashboard
+
+![PALMORA DASHBOARD](https://github.com/user-attachments/assets/71baf3a1-645e-47af-a7ae-f95d95b12645)
