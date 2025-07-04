@@ -16,6 +16,15 @@ To assist HR professionals and data analysts in identifying key workforce insigh
 
 
 ## My Findings
+
+### Total Numbers of Employees: 1377
+
+### Total Numbers of Female Employees: 653
+
+### Total Numbers of Male Employees: 662
+
+### Total Employees Salary: N52 Million
+
 ### Gender Distribution
 Gender Distribution is fair across Palmora Group as indicated by my findings across the various regions as highlighted below:
 
