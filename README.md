@@ -69,6 +69,15 @@ I used the "Card" to highlight major indices of my findings
 
 - **Total Employees Salary:** N52 Million
 
+- **Number of Employees That Earn Over N90,000:** 490
+  
+- **Number of Employees That Earn Below N90,000:** 887
+
+- **Total Number of Departments:** 887
+
+- ^*Total Number of Regions:** 887
+  
+
 ### Gender Distribution
 Gender Distribution is fair across Palmora Group as indicated by my findings across the various regions as highlighted below:
 
