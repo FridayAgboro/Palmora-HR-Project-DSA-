@@ -4,3 +4,8 @@ This project is about the Palmoria Group, a manufacturing company based in Niger
 
 ## Project Goal
 To assist HR professionals and data analysts in identifying key workforce insights and taking data-driven actions to improve fairness, representation, and compensation alignment.
+
+## Major Highlights
+- **Total Numbers of Employees**: 1377
+- **Numbers of Regions**: 3
+- **Numbers of Departments**: 12
