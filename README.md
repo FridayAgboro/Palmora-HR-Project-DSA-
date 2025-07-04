@@ -5,10 +5,10 @@ This project is about the Palmoria Group, a manufacturing company based in Niger
 ## Project Goal
 To assist HR professionals and data analysts in identifying key workforce insights and taking data-driven actions to improve fairness, representation, and compensation alignment.
 
-## Major Highlights
-- **Total Numbers of Employees**: 1377
-- **Numbers of Regions**: 3
-- **Numbers of Departments**: 12
+## Raw Dataset Highlights
+- **Number of Dataset Provided**: 2 ( **Palmoria Group emp-data** and **Palmoria Group Bonus Rules**) 
+- **Palmoria Group emp-data**: Has 6 columns and 1016 Rows
+- **Palmoria Group Bonus Rules**: Has 6 Columns and 13 Rows
 
 ## Tools Used
 - Power Query
