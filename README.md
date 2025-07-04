@@ -75,7 +75,7 @@ I used the "Card" to highlight major indices of my findings
 
 - **Total Number of Departments:** 887
 
-- ^*Total Number of Regions:** 887
+- **Total Number of Regions:** 887
   
 
 ### Gender Distribution
