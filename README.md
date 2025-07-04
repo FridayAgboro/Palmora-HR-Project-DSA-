@@ -33,7 +33,26 @@ I used the "Card" to highlight major indices of my findings
 7. **Total Numbers of Departments:** I inserted the card, selected Department, set it to count of department and filtered it to distint count.
 8. **Total Numbers of Regions:** I inserted the card, selected Location, set it to count of Location and filtered it to distint count.
 
+### Gender Distribution and Region
+- I inserted the Clustered Bar Chart, put location on Y-Axis, count of name on X-Axis and gender on legend.
 
+### Gender Distribution and Department
+- I inserted the Matrix Card, put Department on Row, Gender on Columns and Name on Value (filter to count).
+
+### Rating By Gender
+- I inserted the 100% Stacked Chart, put Ratings on Y-Axis, Name on X-Axis (filter to count) and Gender on Legend.
+
+### Salary by Deprtment and Gender
+- I inserted the Stacked Bar Chart, put Department on Y-Axis, New Salary on X-Axis (filter to sum) and Gender on Legend.
+
+### Numbers of Employees by Salary Band
+- I inserted the Stacked Bar Chart, put Salary Grouping on X-Axis, Salary Grouping on X-Axis (filter to count).
+
+### Numbers of Gender by Rating
+- I inserted Matrix, put Rating on Row, Gender on Columns, Rating on Value (filter to count).
+
+### Numbers of Employees the Earn Above and Below N90,000
+- I inserted Matrix, put Salary above 90000 on Row, Location on Columns, Name on Value (filter to count).
 
 
 ## Dashboard
@@ -58,6 +77,14 @@ Gender Distribution is fair across Palmora Group as indicated by my findings acr
 **Kaduna**: Male 257  | Female 233  | Unknown 24
 
 **Lagos**: Male 176  | Female 173  | Unknown 13
+
+
+## About Me
+Friday Agboro ( Brand Management  |  Graphics Designer | PowerPoint Presentation Formatting |  Data Analyst )
+
+## Contact
+- Phone: +234 08059002119
+- Email: widercoast@gmail.com
 
 
 ## About Me
