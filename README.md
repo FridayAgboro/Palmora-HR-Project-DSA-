@@ -22,6 +22,17 @@ To assist HR professionals and data analysts in identifying key workforce insigh
 - **I used Condition column** To create other columns like (New Salary, Salary Above 90000, Salary Groupng - which I used as Salary Band)
 
 ## Creating the Dashboard
+Started the creation of the Dashboard by Inserting a "Text Box" at the top of the Canvas and Typed in the Project Title and my name.
+I used the "Card" to highlight major indices of my findings
+1. **Total Number of Employees:** I inserted the card, selected Name and set it to count of name.
+2. **Number of Female Employees:** I inserted the card, selected Gender, set it to count of gender and filter it to female.
+3. **Number of Male Employees:** I inserted the card, selected Gender, set it to count of gender and filter it to male.
+4. **Total Anual Salary:** I inserted the card, selected New Salary, set it to sum of new salary.
+5. **Numbers of Employees that earn over N90,000:** I inserted the card, selected Salary above 90000, set it to count of salary above 90000 and filtered it to above 90000.
+6. **Numbers of Employees that earn below N90,000:** I inserted the card, selected Salary above 90000, set it to count of salary above 90000 and filtered it to below 90000.
+7. **Total Numbers of Departments:** I inserted the card, selected Department, set it to count of department and filtered it to distint count.
+8. **Total Numbers of Regions:** I inserted the card, selected Location, set it to count of Location and filtered it to distint count.
+
 
 
 
@@ -47,3 +58,14 @@ Gender Distribution is fair across Palmora Group as indicated by my findings acr
 **Kaduna**: Male 257  | Female 233  | Unknown 24
 
 **Lagos**: Male 176  | Female 173  | Unknown 13
+
+
+## About Me
+Friday Agboro ( Brand Management  |  Graphics Designer | PowerPoint Presentation Formatting |  Data Analyst )
+
+## Contact
+- Phone: +234 08059002119
+- Email: widercoast@gmail.com
+
+
+THank you
