@@ -10,26 +10,33 @@ To assist HR professionals and data analysts in identifying key workforce insigh
 - **Numbers of Regions**: 3
 - **Numbers of Departments**: 12
 
+## Tools Used
+- Power Query
+- Microsoft Power BI
+
+## Data Cleaning Process
+- **Ingestion:** Getting the Data Set into Power Query Environment
+- **TransformationUsing:** On the Gender Column, I Changed the blanking rows to Unknown. I delected the rows with "null" under department column by unchecking "null" in the drop-down on the column. I also deleted the blank row in the salary column by unchecking the "blank" in the drop-down on the salary column.  
+
 ## Dashboard
 
-![PALMORA DASHBOARD](https://github.com/user-attachments/assets/36f88bd6-8261-4b16-b286-5b99d0a7e6d8)
-
+![PALMORA DASHBOARD](https://github.com/user-attachments/assets/d201daed-1474-453f-aa13-428fcf2c9da4)
 
 ## My Findings
 
-- ### Total Numbers of Employees: 1377
+- **Total Numbers of Employees:** 1377
 
-- ### Total Numbers of Female Employees: 653
+- **Total Numbers of Female Employees:** 653
 
-- ### Total Numbers of Male Employees: 662
+- **Total Numbers of Male Employees:** 662
 
-- ### Total Employees Salary: N52 Million
+- **Total Employees Salary:** N52 Million
 
 ### Gender Distribution
 Gender Distribution is fair across Palmora Group as indicated by my findings across the various regions as highlighted below:
 
-**Abuja**: Male 229 | Female 247  | Unknown 25
+**Abuja**: Male 229  | Female 247  | Unknown 25
 
-**Kaduna**: Male 257 | Female 233  | Unknown 24
+**Kaduna**: Male 257  | Female 233  | Unknown 24
 
-**Lagos**: Male 176| Female 173  | Unknown 13
+**Lagos**: Male 176  | Female 173  | Unknown 13
