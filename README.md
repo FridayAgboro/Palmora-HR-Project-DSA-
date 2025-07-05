@@ -40,28 +40,28 @@ I used the "Card" to highlight major figures in my findings
 7. **Total Numbers of Departments:** I inserted the card, selected Department, set it to count of department and filtered it to distint count.
 8. **Total Numbers of Regions:** I inserted the card, selected Location, set it to count of Location and filtered it to distint count.
 
-### Gender Distribution and Region
+#### **Gender Distribution and Region**
 - I inserted the Clustered Bar Chart, put location on Y-Axis, count of name on X-Axis and gender on legend.
 
 ![palm 2](https://github.com/user-attachments/assets/aecc9042-e5e1-4b68-bbe7-c7341bd14653)
 
 
-### Gender Distribution and Department
+#### **Gender Distribution and Department**
 - I inserted the Matrix Card, put Department on Row, Gender on Columns and Name on Value (filter to count).
 
-### Rating By Gender
+#### **Rating By Gender**
 - I inserted the 100% Stacked Chart, put Ratings on Y-Axis, Name on X-Axis (filter to count) and Gender on Legend.
 
-### Salary by Deprtment and Gender
+#### **Salary by Deprtment and Gender**
 - I inserted the Stacked Bar Chart, put Department on Y-Axis, New Salary on X-Axis (filter to sum) and Gender on Legend.
 
-### Numbers of Employees by Salary Band
+#### **Numbers of Employees by Salary Band**
 - I inserted the Stacked Bar Chart, put Salary Grouping on X-Axis, Salary Grouping on X-Axis (filter to count).
 
-### Numbers of Gender by Rating
+#### **Numbers of Gender by Rating**
 - I inserted Matrix, put Rating on Row, Gender on Columns, Rating on Value (filter to count).
 
-### Numbers of Employees the Earn Above and Below N90,000
+#### **Numbers of Employees that Earn Above and Below N90,000**
 - I inserted Matrix, put Salary above N90,000 on Row, Location on Columns, Name on Value (filter to count).
 
 
@@ -84,9 +84,9 @@ I used the "Card" to highlight major figures in my findings
   
 - **Number of Employees That Earn Below N90,000:** 887
 
-- **Total Number of Departments:** 887
+- **Total Number of Departments:** 12
 
-- **Total Number of Regions:** 887
+- **Total Number of Regions:** 3
   
 
 ### Gender Distribution
@@ -109,7 +109,7 @@ Palmora did not meet the industry standard of N90,000 minimum wage, as my analys
 ## Recommendations
 - Palmora Group needs to balance Salary in relation to Gender Disparity specially in the Legal Department.
 - Palmora Group needd to increase employees salary to meet the industry standard of a minimum salary on N90,000.
-- Employees in Lagos Region seems to earn lesser amount compare to employees in others locations this needs to be looked at.
+- There are fewer Employees in Lagos Region compare to employees in others locations this needs to be looked at.
 - There are no signifaicant bias in terms of numbers of Male to Females in Palmora Group across the various regions.
   
 
