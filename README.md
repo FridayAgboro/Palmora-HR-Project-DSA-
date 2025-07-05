@@ -62,7 +62,7 @@ I used the "Card" to highlight major figures in my findings
 - I inserted Matrix, put Rating on Row, Gender on Columns, Rating on Value (filter to count).
 
 ### Numbers of Employees the Earn Above and Below N90,000
-- I inserted Matrix, put Salary above 90000 on Row, Location on Columns, Name on Value (filter to count).
+- I inserted Matrix, put Salary above N90,000 on Row, Location on Columns, Name on Value (filter to count).
 
 
 ## Dashboard
@@ -100,7 +100,7 @@ Gender Distribution is fair across Palmora Group as indicated by my findings acr
 
 
 ### Analysis of Palmora Salary Structure
-The Salary structure show that there is a significant gender bias in the Legal department more than any other department (it shows Males total salary be N4,482,763 as against N2842022 for females).
+The Salary structure show that there is a significant gender bias in the Legal department more than any other department (it shows Males total salary be N4,482,763 as against N2,842,022 for females).
 
 ### How Palmora stand in relation to N90,000 Minimum Wage for Manufacturing Companies
 Palmora did not meet the industry standard of N90,000 minimum wage, as my analysis reveals that of the **1377** Employees of Palmora, only **490** earn N90,000 and above while a huge number of **887** earn below N90,000.
