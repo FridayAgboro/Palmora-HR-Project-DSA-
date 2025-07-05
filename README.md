@@ -1,9 +1,9 @@
 # Palmora Group HR Project (DSA)
-This project is about the Palmoria Group, a manufacturing company based in Nigeria, that is embroiled in issues bordering on gender inequality in its 3 regions.  I am looking to providing solution to the gender issues with this project.
+This project is about the Palmora Group, a manufacturing company based in Nigeria, that is embroiled in issues bordering on gender inequality in its 3 regions.  I am looking to providing solution to the gender issues with my analysis of the HR dataset provided.
 
 
 ## Project Goal
-To assist HR professionals and data analysts in identifying key workforce insights and taking data-driven actions to improve fairness, representation, and compensation alignment.
+To assist HR professionals and data analysts in identifying key workforce insights and taking necessary actions to provide fair representations, and compensation alignment.
 
 ## Raw Dataset Highlights
 - **Number of Dataset Provided**: 2 ( **Palmora Group emp-data** and **Palmora Group Bonus Rules**) 
@@ -30,7 +30,7 @@ To assist HR professionals and data analysts in identifying key workforce insigh
 
 ## Creating the Dashboard
 Started the creation of the Dashboard by Inserting a "Text Box" at the top of the Canvas and Typed in the Project Title and my name.
-I used the "Card" to highlight major indices of my findings
+I used the "Card" to highlight major figures in my findings
 1. **Total Number of Employees:** I inserted the card, selected Name and set it to count of name.
 2. **Number of Female Employees:** I inserted the card, selected Gender, set it to count of gender and filter it to female.
 3. **Number of Male Employees:** I inserted the card, selected Gender, set it to count of gender and filter it to male.
@@ -107,9 +107,10 @@ Palmora did not meet the industry standard of N90,000 minimum wage, as my analys
 
 
 ## Recommendations
-- Palmora Group needs to balance Salary in relation to Gender Disparity specially in the Legal Department
-- Palmora Group needd to increase employees salary to meet the industry standard of a minimum salary on N90,000
-- Employees in Lagos Region seems to earn lesser amount compare to employees in others locations this needs to be looked at
+- Palmora Group needs to balance Salary in relation to Gender Disparity specially in the Legal Department.
+- Palmora Group needd to increase employees salary to meet the industry standard of a minimum salary on N90,000.
+- Employees in Lagos Region seems to earn lesser amount compare to employees in others locations this needs to be looked at.
+- There are no signifaicant bias in terms of numbers of Male to Females in Palmora Group across the various regions.
   
 
 ## About Me
