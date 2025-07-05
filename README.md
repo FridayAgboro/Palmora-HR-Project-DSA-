@@ -25,6 +25,9 @@ To assist HR professionals and data analysts in identifying key workforce insigh
 - **I used custom column** To create a Bonus Column
 - **I used Condition column** To create other columns like (New Salary, Salary Above 90000, Salary Groupng - which I used as Salary Band)
 
+![Pal Additional column](https://github.com/user-attachments/assets/0d8704e1-c3c6-492f-9537-b0664eb31883)
+
+
 ## Creating the Dashboard
 Started the creation of the Dashboard by Inserting a "Text Box" at the top of the Canvas and Typed in the Project Title and my name.
 I used the "Card" to highlight major indices of my findings
@@ -39,6 +42,9 @@ I used the "Card" to highlight major indices of my findings
 
 ### Gender Distribution and Region
 - I inserted the Clustered Bar Chart, put location on Y-Axis, count of name on X-Axis and gender on legend.
+
+![palm 2](https://github.com/user-attachments/assets/aecc9042-e5e1-4b68-bbe7-c7341bd14653)
+
 
 ### Gender Distribution and Department
 - I inserted the Matrix Card, put Department on Row, Gender on Columns and Name on Value (filter to count).
