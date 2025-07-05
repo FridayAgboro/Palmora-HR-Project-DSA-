@@ -90,7 +90,7 @@ I used the "Card" to highlight major indices of my findings
   
 
 ### Gender Distribution
-Gender Distribution is fair across Palmora Group as indicated by my findings across the various regions as highlighted below:
+Gender Distribution is fair across Palmora Group as indicated by my findings across the various regions which did not indicate any significant gap between the two genders, as highlighted below:
 
 **Abuja**: Male 229  | Female 247  | Unknown 25
 
@@ -100,10 +100,10 @@ Gender Distribution is fair across Palmora Group as indicated by my findings acr
 
 
 ### Analysis of Palmora Salary Structure
-The Salary structure show that there is a significant gender bias in the Legal department more than any other department (show Male total salary be N4,482,763 as against N2842022 for female).
+The Salary structure show that there is a significant gender bias in the Legal department more than any other department (it shows Males total salary be N4,482,763 as against N2842022 for females).
 
 ### How Palmora stand in relation to N90,000 Minimum Wage for Manufacturing Companies
-Palmora did not meet the industry stand of N90,000 minimum wage as my analysis reveals that of the **1377** Employees of Palmora, only **490** earn N90,000 and above while a huge number of **887** earn below N90,000.
+Palmora did not meet the industry standard of N90,000 minimum wage, as my analysis reveals that of the **1377** Employees of Palmora, only **490** earn N90,000 and above while a huge number of **887** earn below N90,000.
 
 
 ## Recommendations
