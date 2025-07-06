@@ -91,7 +91,7 @@ I used the "Card" to highlight major figures in my findings
 
 
 ### Gender Distribution
-Gender Distribution across Palmora Group is fairly balanced as indicated by my findings across the various regions and departments which did not indicate any significant gap between the two genders, in some departments, the numbers of males are higher than females (Training, Support, Sales, Product Management, Marketing, Legal, Engineering, and Accounting) while the numbers of females are higher than males in (Services, Research and Development, Human Resouces, and Business Development) as highlighted below:
+Gender Distribution across Palmora Group is fairly balanced as indicated by my findings across the various regions and departments which did not indicate any significant gap between the two genders, in some departments, the numbers of males are higher than females in 8 departments (Training, Support, Sales, Product Management, Marketing, Legal, Engineering, and Accounting) while the numbers of females are higher than males in 4 departments (Services, Research and Development, Human Resouces, and Business Development) as highlighted below:
 
 
 _**Gender Distribution By Departments**_
