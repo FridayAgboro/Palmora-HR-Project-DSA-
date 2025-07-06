@@ -154,6 +154,23 @@ _**Gender Distribution By Regions**_
 ## Analysis of Palmora Salary Structure
 The Salary structure show that there is a significant gender bias in the Legal department more than any other department (it shows Males total salary be **N4,482,763** as against **N2,842,022** for females).
 
+
+### Palmora Salary Structure By Gender and Departments
+
+-	**Training:** Female 4,344,390  |  Male 4,606,470  |  Unknown 339,510  |  Total 9,290,370
+-	**Support:** Female 3,686,480 |  Male 4,269,460  |  Unknown 363,750 |  Total 8,319,690
+-	**Services:** Female 4,657,540 |  Male 4,367,180  |  Unknown 329,950 |  Total 9,354,670
+-	**Sales:** Female 3,350,330 |  Male 3,616,280  |  Unknown 356,500 |  Total 7,323,110
+-	**Research and Development:** Female 5,413,270 |  Male 4,397,060  |  Unknown 707,810 |  Total 10,518,140
+-	**Product Management:** Female 4,372,130 |  Male 5,097,190  |  Unknown 36,480 |  Total 9,505,800
+-	**Marketing:** Female 3,754,680 |  Male 3,860,640  |  Unknown 211,740 |  Total 7,827,060
+-	**Legal:** Female 2,759,560 |  Male 4,348,270  |  Unknown 711,370 |  Total 7,819,200
+-	**Human Resources:** Female 3,308,790 |  Male 3,526,870  |  Unknown 282,850 |  Total 7,118,510
+-	**Engineering:** Female 4,029,610 |  Male 4,014,490  |  Unknown 920,280 |  Total 8,964,380
+-	**Business Development:** Female 4,778,220 |  Male 4,213,510  |  Unknown 247,600 |  Total 9,239,330
+-	**Accounting:** Female 2,875,760 |  Male 3,553,070  |  Unknown 312,230 |  Total 6,741,060
+
+
 ### How Palmora stand in relation to N90,000 Minimum Wage for Manufacturing Companies
 Palmora did not meet the industry standard of N90,000 minimum wage, as my analysis reveals that of the **1377** Employees of Palmora, only **490** earn N90,000 and above while a huge number of **887** earn below N90,000.
 
