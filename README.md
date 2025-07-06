@@ -90,7 +90,7 @@ I used the "Card" to highlight major figures in my findings
   
 
 
-### Gender Distribution
+## Gender Distribution
 Gender Distribution across Palmora Group is fairly balanced as indicated by my findings across the various regions and departments which did not indicate any significant gap between the two genders, the numbers of males are higher than females in 8 departments (Training, Support, Sales, Product Management, Marketing, Legal, Engineering, and Accounting) while the numbers of females are higher than males in 4 departments (Services, Research and Development, Human Resouces, and Business Development). However, major gender gaps of over 20% and above are noticed in 3 departments (Research and Development - Females are 27% Higher, Legal - Males are 50% Higher, and Business Development - Females are 28% higher) as highlighted below:
 
 
@@ -132,7 +132,26 @@ _**Gender Distribution By Regions**_
 - **Lagos**: Male 176  | Female 173  | Unknown 13  |  (Males are 1.7% higher)
 
 
-### Analysis of Palmora Salary Structure
+## Insight on Ratings Based on Gender
+
+- **Very Good:** Female 105 | Male 74 | Unknown 10
+  
+- **Good:** Female 188 | Male 167 | Unknown 19
+
+- **Avarage:** Female 190 | Male 212 | Unknown 18
+
+- **Poor:** Female 98 | Male 122 | Unknown 6
+
+- **Very Poor:** Female 37 | Male 53 | Unknown 7
+
+- **Not Rated:** Female 35 | Male 34 | Unknown 2
+
+
+
+
+
+
+## Analysis of Palmora Salary Structure
 The Salary structure show that there is a significant gender bias in the Legal department more than any other department (it shows Males total salary be **N4,482,763** as against **N2,842,022** for females).
 
 ### How Palmora stand in relation to N90,000 Minimum Wage for Manufacturing Companies
