@@ -154,8 +154,9 @@ _**Gender Distribution By Regions**_
 ## Analysis of Palmora Salary Structure
 The Salary structure show that there is a significant gender bias in the Legal department more than any other department (it shows Males total salary be **N4,482,763** as against **N2,842,022** for females).
 
+### Palmora Total Salary By Gender
 
-### Palmora Salary Structure By Gender and Departments
+### Palmora Salary By Gender and Departments
 
 -	**Training:** Female 4,344,390  |  Male 4,606,470  |  Unknown 339,510  |  Total 9,290,370
   
