@@ -92,11 +92,41 @@ I used the "Card" to highlight major figures in my findings
 ### Gender Distribution
 Gender Distribution is fair across Palmora Group as indicated by my findings across the various regions which did not indicate any significant gap between the two genders, as highlighted below:
 
-**Abuja**: Male 229  | Female 247  | Unknown 25
+**GENDER DISTRIBUTION BY DEPARTMENT**
 
-**Kaduna**: Male 257  | Female 233  | Unknown 24
+- **Training**: Male 61  | Female 55  | Unknown 4
+  
+- **Support**: Male 54  | Female 50  | Unknown 5
 
-**Lagos**: Male 176  | Female 173  | Unknown 13
+- **Services**: Male 54  | Female  62 | Unknown 5
+
+- **Sales**: Male 50  | Female 48  | Unknown 4
+
+- **Research and Development**: Male 63  | Female 80  | Unknown 9
+
+- **Product Management**: Male 65  | Female 61  | Unknown 1
+
+- **Marketing**: Male 53  | Female 48  | Unknown 2
+
+- **Legal**: Male 60  | Female 40  | Unknown 9
+
+- **Human Resources**: Male 48  | Female 50  | Unknown 3
+
+- **Engineering**: Male 58  | Female 55  | Unknown 12
+
+- **Business Development**: Male 50  | Female 64  | Unknown 5
+
+- **Accounting**: Male 46  | Female 40  | Unknown 3
+
+
+
+**GENDER DISTRIBUTION BY REGION**
+
+- **Abuja**: Male 229  | Female 247  | Unknown 25
+
+- **Kaduna**: Male 257  | Female 233  | Unknown 24
+
+- **Lagos**: Male 176  | Female 173  | Unknown 13
 
 
 ### Analysis of Palmora Salary Structure
