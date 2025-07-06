@@ -89,10 +89,12 @@ I used the "Card" to highlight major figures in my findings
 - **Total Number of Regions:** 3
   
 
+
 ### Gender Distribution
 Gender Distribution is fair across Palmora Group as indicated by my findings across the various regions which did not indicate any significant gap between the two genders, as highlighted below:
 
-**GENDER DISTRIBUTION BY DEPARTMENT**
+
+_**Gender Distribution By Departments**_
 
 - **Training**: Male 61  | Female 55  | Unknown 4
   
@@ -120,7 +122,8 @@ Gender Distribution is fair across Palmora Group as indicated by my findings acr
 
 
 
-**GENDER DISTRIBUTION BY REGION**
+
+_**Gender Distribution By Regions**_
 
 - **Abuja**: Male 229  | Female 247  | Unknown 25
 
