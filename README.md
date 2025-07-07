@@ -198,6 +198,25 @@ _**Gender Distribution By Regions**_
   
 -	**Accounting:** Female N2,875,760 |  Male N3,553,070  |  Unknown N312,230 |  Total N6,741,060
 
+  
+### Numbers of Staff By Salary Band
+
+-	**90,000 and above:** 490
+
+-	**80,100 – 90,000:** 145
+
+-	**70,100 – 80,000:** 180
+
+-	**60,100 – 70,000:** 121
+
+-	**50,100 – 60,000:** 130
+
+-	**40,100 – 50,000:** 153
+
+-	**30,100 – 40,000:** 145
+
+-	**20,100 – 30,000:** 13
+
 
 ### How Palmora stand in relation to N90,000 Minimum Wage for Manufacturing Companies
 Palmora did not meet the industry standard of N90,000 minimum wage, as my analysis reveals that of the **1377** Employees of Palmora, only **490** earn N90,000 and above while a huge number of **887** earn below N90,000.
