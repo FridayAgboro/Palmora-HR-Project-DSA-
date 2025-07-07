@@ -122,6 +122,9 @@ _**Gender Distribution By Departments**_
 
 
 
+![Gender distribution by Dept](https://github.com/user-attachments/assets/9006e8b1-4452-42ff-9a65-a454c6eb4aad)
+
+
 
 _**Gender Distribution By Regions**_
 
@@ -130,6 +133,10 @@ _**Gender Distribution By Regions**_
 - **Kaduna**: Male 257  | Female 233  | Unknown 24  |  (Males are 10.3% higher)
 
 - **Lagos**: Male 176  | Female 173  | Unknown 13  |  (Males are 1.7% higher)
+
+
+![Gender distribution by Region](https://github.com/user-attachments/assets/63bf141e-7652-4d21-99c7-de140b344550)
+
 
 
 ## Insight on Ratings Based on Gender
@@ -145,6 +152,9 @@ _**Gender Distribution By Regions**_
 - **Very Poor:** Female 37 | Male 53 | Unknown 7
 
 - **Not Rated:** Female 35 | Male 34 | Unknown 2
+
+![gender by rating](https://github.com/user-attachments/assets/22ba761b-533b-4d74-9119-62f1496f317f)
+
 
 
 ## Analysis of Palmora Salary Structure
@@ -170,6 +180,8 @@ _**Gender Distribution By Regions**_
 -	**Kaduna:** Female N16,812,520 |  Male N19,443,670  |  Unknown N1,873,360
   
 -	**Lagos:** Female N12,792,370 |  Male N13,590,280  |  Unknown N1,085,030 
+
+![salary by gender by region](https://github.com/user-attachments/assets/3367063e-ca4d-4342-9e45-41ad11369556)
 
 
 ### Palmora Salary By Gender and Departments
@@ -198,6 +210,9 @@ _**Gender Distribution By Regions**_
   
 -	**Accounting:** Female N2,875,760 |  Male N3,553,070  |  Unknown N312,230 |  Total N6,741,060
 
+
+![salary by gender by dept](https://github.com/user-attachments/assets/42bc0f80-a090-44eb-8e36-9d477c5bc3c0)
+
   
 ### Numbers of Staff By Salary Band
 
@@ -217,9 +232,13 @@ _**Gender Distribution By Regions**_
 
 -	**N20,100 – N30,000:** 13
 
+![No of employee by sal band](https://github.com/user-attachments/assets/7fb362ea-4557-4972-bd6c-ae34f09fdd81)
+
 
 ### How Palmora stand in relation to N90,000 Minimum Wage for Manufacturing Companies
 Palmora did not meet the industry standard of N90,000 minimum wage, as my analysis reveals that of the **1377** Employees of Palmora, only **490** earn N90,000 and above while a huge number of **887** earn below N90,000.
+
+![no of staff above 90000](https://github.com/user-attachments/assets/fd30b6d3-64f9-46cc-a0c4-48430d5d46fa)
 
 
 ## Recommendations
