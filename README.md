@@ -148,14 +148,27 @@ _**Gender Distribution By Regions**_
 
 
 ## Analysis of Palmora Salary Structure
-The Salary structure show that there is a significant gender bias in the Legal department more than any other department (it shows Males total salary be **N4,482,763** as against **N2,842,022** for females).
+
+### Palmora Total Salary
+
+- N102,021,320
+
 
 ### Palmora Total Salary By Gender
+
+- **Female:** N47,330,760
+  
+- **Male:** N49,870,490
+  
+- **Unknown:** N4,820,070
+
 
 ### Palmora Salary By Gender and Regions
 
 -	**Abuja:** Female 17,725,870  |  Male 16,836,540  |  Unknown 1,861,680
+-	
 -	**Kaduna:** Female 16,812,520 |  Male 19,443,670  |  Unknown 1,873,360
+-	
 -	**Lagos:** Female 12,792,370 |  Male 13,590,280  |  Unknown 1,085,030 
 
 
