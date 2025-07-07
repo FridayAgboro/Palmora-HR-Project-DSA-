@@ -204,10 +204,9 @@ Palmora did not meet the industry standard of N90,000 minimum wage, as my analys
 
 
 ## Recommendations
-- Palmora Group needs to balance Salary in relation to Gender Disparity specially in the Legal Department.
+- Palmora Group needs to balance Gender bias in the following Departments where major bias are noticed, bias against males in 2 departments (Research and Development - Females are 27% Higher, and Business Development - Females are 28% higher), while bias against female is noticed in 1 department (Legal - Males are 50% Higher). 
 - Palmora Group needd to increase employees salary to meet the industry standard of a minimum salary on N90,000.
 - There are fewer Employees in Lagos Region compare to employees in others locations this needs to be looked at.
-- There are no signifaicant bias in terms of numbers of Male to Females in Palmora Group across the various regions.
   
 
 ## About Me
