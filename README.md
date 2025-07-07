@@ -165,38 +165,38 @@ _**Gender Distribution By Regions**_
 
 ### Palmora Salary By Gender and Regions
 
--	**Abuja:** Female 17,725,870  |  Male 16,836,540  |  Unknown 1,861,680
+-	**Abuja:** Female N17,725,870  |  Male N16,836,540  |  Unknown N1,861,680
   
--	**Kaduna:** Female 16,812,520 |  Male 19,443,670  |  Unknown 1,873,360
+-	**Kaduna:** Female N16,812,520 |  Male N19,443,670  |  Unknown N1,873,360
   
--	**Lagos:** Female 12,792,370 |  Male 13,590,280  |  Unknown 1,085,030 
+-	**Lagos:** Female N12,792,370 |  Male N13,590,280  |  Unknown N1,085,030 
 
 
 ### Palmora Salary By Gender and Departments
 
--	**Training:** Female 4,344,390  |  Male 4,606,470  |  Unknown 339,510  |  Total 9,290,370
+-	**Training:** Female N4,344,390  |  Male N4,606,470  |  Unknown N339,510  |  Total N9,290,370
   
--	**Support:** Female 3,686,480 |  Male 4,269,460  |  Unknown 363,750 |  Total 8,319,690
+-	**Support:** Female N3,686,480 |  Male N4,269,460  |  Unknown N363,750 |  Total N8,319,690
   
--	**Services:** Female 4,657,540 |  Male 4,367,180  |  Unknown 329,950 |  Total 9,354,670
+-	**Services:** Female N4,657,540 |  Male N4,367,180  |  Unknown N329,950 |  Total N9,354,670
   
--	**Sales:** Female 3,350,330 |  Male 3,616,280  |  Unknown 356,500 |  Total 7,323,110
+-	**Sales:** Female N3,350,330 |  Male N3,616,280  |  Unknown N356,500 |  Total N7,323,110
   
--	**Research and Development:** Female 5,413,270 |  Male 4,397,060  |  Unknown 707,810 |  Total 10,518,140
+-	**Research and Development:** Female N5,413,270 |  Male N4,397,060  |  Unknown N707,810 |  Total N10,518,140
   
--	**Product Management:** Female 4,372,130 |  Male 5,097,190  |  Unknown 36,480 |  Total 9,505,800
+-	**Product Management:** Female N4,372,130 |  Male N5,097,190  |  Unknown N36,480 |  Total N9,505,800
   
--	**Marketing:** Female 3,754,680 |  Male 3,860,640  |  Unknown 211,740 |  Total 7,827,060
+-	**Marketing:** Female N3,754,680 |  Male N3,860,640  |  Unknown N211,740 |  Total N7,827,060
   
--	**Legal:** Female 2,759,560 |  Male 4,348,270  |  Unknown 711,370 |  Total 7,819,200
+-	**Legal:** Female N2,759,560 |  Male N4,348,270  |  Unknown N711,370 |  Total N7,819,200
   
--	**Human Resources:** Female 3,308,790 |  Male 3,526,870  |  Unknown 282,850 |  Total 7,118,510
+-	**Human Resources:** Female N3,308,790 |  Male N3,526,870  |  Unknown N282,850 |  Total N7,118,510
   
--	**Engineering:** Female 4,029,610 |  Male 4,014,490  |  Unknown 920,280 |  Total 8,964,380
+-	**Engineering:** Female N4,029,610 |  Male N4,014,490  |  Unknown N920,280 |  Total N8,964,380
   
--	**Business Development:** Female 4,778,220 |  Male 4,213,510  |  Unknown 247,600 |  Total 9,239,330
+-	**Business Development:** Female N4,778,220 |  Male N4,213,510  |  Unknown N247,600 |  Total N9,239,330
   
--	**Accounting:** Female 2,875,760 |  Male 3,553,070  |  Unknown 312,230 |  Total 6,741,060
+-	**Accounting:** Female N2,875,760 |  Male N3,553,070  |  Unknown N312,230 |  Total N6,741,060
 
 
 ### How Palmora stand in relation to N90,000 Minimum Wage for Manufacturing Companies
