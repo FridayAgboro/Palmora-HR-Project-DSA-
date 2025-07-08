@@ -64,7 +64,7 @@ I used the "Card" to highlight major figures in my findings
 
 ## Dashboard
 
-![DASHBOARD](https://github.com/user-attachments/assets/976c6c39-1cd0-44c1-a3d7-208bae6be17a)
+![DASHBOARD](https://github.com/user-attachments/assets/65b04dfe-a087-4986-b1d0-356ee48843f6)
 
 
 
