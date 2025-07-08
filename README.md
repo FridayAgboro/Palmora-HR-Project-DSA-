@@ -183,7 +183,7 @@ _**Gender Distribution By Regions**_
   
 -	**Lagos:** Female N12,792,370 |  Male N13,590,280  |  Unknown N1,085,030 
 
-![salary by gender by region](https://github.com/user-attachments/assets/3367063e-ca4d-4342-9e45-41ad11369556)
+![image](https://github.com/user-attachments/assets/53ecbb80-45f6-4d43-8360-88672dfa42a6)
 
 
 ### Palmora Salary By Gender and Departments
