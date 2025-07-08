@@ -171,6 +171,9 @@ _**Gender Distribution By Regions**_
   
 - **Unknown:** N3,113,663
 
+![image](https://github.com/user-attachments/assets/08ec2edb-5a46-4b4a-bdda-853c688034d7)
+
+
 
 ### Palmora Salary By Gender and Regions
 
