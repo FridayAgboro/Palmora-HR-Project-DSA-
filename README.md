@@ -66,7 +66,8 @@ I used the "Card" to highlight major figures in my findings
 
 ## Dashboard
 
-![PALMORA DASHBOARD](https://github.com/user-attachments/assets/0224ef41-21c2-4353-bda2-704f41525f3a)
+![DASHBOARD](https://github.com/user-attachments/assets/976c6c39-1cd0-44c1-a3d7-208bae6be17a)
+
 
 
 ## My Findings
