@@ -176,11 +176,11 @@ _**Gender Distribution By Regions**_
 
 ### Palmora Salary By Gender and Regions
 
--	**Abuja:** Female N17,725,870  |  Male N16,836,540  |  Unknown N1,861,680
+-	**Abuja:** Female N10,185,370   |  Male N10,600,240  |  Unknown N1,215,440
   
--	**Kaduna:** Female N16,812,520 |  Male N19,443,670  |  Unknown N1,873,360
+-	**Kaduna:** Female N10,957,800 |  Male N12,737,700  |  Unknown N1,101,000
   
--	**Lagos:** Female N12,792,370 |  Male N13,590,280  |  Unknown N1,085,030 
+-	**Lagos:** Female N8,336,390 |  Male N8,699,920  |  Unknown N694,880
 
 ![image](https://github.com/user-attachments/assets/2a140041-a1c4-4570-883f-c1a47d25b393)
 
