@@ -243,9 +243,10 @@ _**Gender Distribution By Regions**_
 
 
 ### How Palmora stand in relation to N90,000 Minimum Wage for Manufacturing Companies
-Palmora did not meet the industry standard of N90,000 minimum wage, as my analysis reveals that of the **1377** Employees of Palmora, only **490** earn N90,000 and above while a huge number of **887** earn below N90,000.
+Palmora did not meet the industry standard of N90,000 minimum wage, as my analysis reveals that of the **874** Employees of Palmora, only **304** earn N90,000 and above while a huge number of **570** earn below N90,000.
 
-![no of staff above 90000](https://github.com/user-attachments/assets/fd30b6d3-64f9-46cc-a0c4-48430d5d46fa)
+
+![no of staff above 90000](https://github.com/user-attachments/assets/89ec046d-8fde-4525-9e17-2356be921e05)
 
 
 ## Recommendations
