@@ -187,29 +187,29 @@ _**Gender Distribution By Regions**_
 
 ### Palmora Salary By Gender and Departments
 
--	Accounting Male ₦ 2,832,129 Female  ₦ 2,034,091 Unknown  ₦ 213,292
+-	**Accounting Male:** ₦ 2,832,129 | Female  ₦ 2,034,091 | Unknown  ₦ 213,292
   
--	Business Development Male  ₦ 2,743,173 Female  ₦ 2,923,633 Unknown  ₦ 155,893
+-	**Business Development:** Male**  ₦ 2,743,173 | Female  ₦ 2,923,633 | Unknown  ₦ 155,893
   
--	Engineering Male  ₦ 2,458,732 Female ₦ 2,707,862 Unknown  ₦ 414,046
+-	**Engineering Male:**  ₦ 2,458,732 | Female ₦ 2,707,862 | Unknown  ₦ 414,046
   
--	Human Resources Male  ₦ 2,529,724 Female  ₦ 2,555,019 Unknown ₦ 290,487
+-	**Human Resources:** Male  ₦ 2,529,724 | Female  ₦ 2,555,019 | Unknown ₦ 290,487
   
--	Legal Male  ₦ 3,329,620 Female  ₦ 2,291,993 Unknown  ₦ 345,749
+-	**Legal Male:**  ₦ 3,329,620 | Female  ₦ 2,291,993 | Unknown  ₦ 345,749
   
--	Marketing Male ₦ 2,351,428 Female  ₦ 2,548,813 Unknown  ₦ 106,399
+-	**Marketing Male:** ₦ 2,351,428 | Female  ₦ 2,548,813 | Unknown  ₦ 106,399
   
--	Product Management Male  ₦ 3,019,817 Female  ₦ 2,872,998 Unknown  ₦ 37,647
+-	**Product Management Male:**  ₦ 3,019,817 | Female  ₦ 2,872,998 | Unknown  ₦ 37,647
   
--	Research and Development  Male  ₦ 2,023,931 Female  ₦ 2,270,308 Unknown  ₦ 405,912
+-	**Research and Development:**  Male  ₦ 2,023,931 | Female  ₦ 2,270,308 | Unknown  ₦ 405,912
   
--	Sales Male  ₦ 2,861,859 Female  ₦ 2,307,704 Unknown  ₦ 363,986
+-	**Sales Male:**  ₦ 2,861,859 | Female  ₦ 2,307,704 | Unknown  ₦ 363,986
   
--	Services Male  ₦ 2,896,340 Female  ₦ 2,982,293 Unknown  ₦ 202,590
+-	**Services Male:**  ₦ 2,896,340 | Female  ₦ 2,982,293 |Unknown  ₦ 202,590
   
--	Support Male  ₦ 3,251,044 Female  ₦ 2,219,956 Unknown  ₦ 311,030
+-	**Support Male:**  ₦ 3,251,044 | Female | ₦ 2,219,956 | Unknown  ₦ 311,030
   
--	Training Male  ₦ 2,686,801 Female  ₦ 2,747,006 Unknown  ₦ 266,632
+-	**Training Male"**  ₦ 2,686,801 | Female  ₦ 2,747,006 | Unknown  ₦ 266,632
 
 
 
