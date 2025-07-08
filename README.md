@@ -43,7 +43,6 @@ I used the "Card" to highlight major figures in my findings
 #### **Gender Distribution and Region**
 - I inserted the Clustered Bar Chart, put location on Y-Axis, count of name on X-Axis and gender on legend.
 
-![palm 2](https://github.com/user-attachments/assets/aecc9042-e5e1-4b68-bbe7-c7341bd14653)
 
 
 #### **Gender Distribution and Department**
@@ -72,17 +71,17 @@ I used the "Card" to highlight major figures in my findings
 
 ## My Findings
 
-- **Total Numbers of Employees:** 1377
+- **Total Numbers of Employees:** 874
 
-- **Total Numbers of Female Employees:** 653
+- **Total Numbers of Female Employees:** 406
 
-- **Total Numbers of Male Employees:** 662
+- **Total Numbers of Male Employees:** 430
 
-- **Total Employees Salary:** N52 Million
+- **Total Employees Salary:** N33 Million
 
-- **Number of Employees That Earn Over N90,000:** 490
+- **Number of Employees That Earn Over N90,000:** 307
   
-- **Number of Employees That Earn Below N90,000:** 887
+- **Number of Employees That Earn Below N90,000:** 570
 
 - **Total Number of Departments:** 12
 
