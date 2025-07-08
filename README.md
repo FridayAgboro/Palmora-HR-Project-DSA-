@@ -235,7 +235,11 @@ _**Gender Distribution By Regions**_
 
 -	**N20,100 – N30,000:** 13
 
-![No of employee by sal band](https://github.com/user-attachments/assets/7fb362ea-4557-4972-bd6c-ae34f09fdd81)
+
+![image](https://github.com/user-attachments/assets/6aada314-1819-4ca4-91be-bd8dbd6f602e)
+
+
+![No of employee by sal band](https://github.com/user-attachments/assets/a8dc70a0-1afd-4d5a-8a58-83e74423496a)
 
 
 ### How Palmora stand in relation to N90,000 Minimum Wage for Manufacturing Companies
