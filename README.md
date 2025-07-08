@@ -95,29 +95,29 @@ Gender Distribution across Palmora Group is fairly balanced as indicated by my f
 _**Gender Distribution By Departments**_
 
 
-- **Training**: Male 35  | Female 34  | Unknown 3 | (Males are 10.9% Higher)
+- **Training**: Male 35  | Female 34  | Unknown 3 
   
-- **Support**: Male 41  | Female 30  | Unknown 4  | (Males are 8% Higher)
+- **Support**: Male 41  | Female 30  | Unknown 4  
 
-- **Services**: Male 35  | Female  39 | Unknown 3  | (Females are 14.4% Higher)
+- **Services**: Male 35  | Female  39 | Unknown 3 
 
-- **Sales**: Male 39  | Female 32  | Unknown 4  | (Males are 4.2% Higher)
+- **Sales**: Male 39  | Female 32  | Unknown 4 
 
-- **Research and Development**: Male 28  | Female 32  | Unknown 5  | (Females are 27% Higher)
+- **Research and Development**: Male 28  | Female 32  | Unknown 5 
 
-- **Product Management**: Male 40  | Female 39  | Unknown 1  | (Males are 6.6% Higher)
+- **Product Management**: Male 40  | Female 39  | Unknown 1 
 
-- **Marketing**: Male 31  | Female 31  | Unknown 1  | (Males are 10.4% Higher)
+- **Marketing**: Male 31  | Female 31  | Unknown 1
 
-- **Legal**: Male 44  | Female 32  | Unknown 4  | (Males are 50% Higher)
+- **Legal**: Male 44  | Female 32  | Unknown 4 
 
-- **Human Resources**: Male 33  | Female 37  | Unknown 3  | (Females are 4.2% Higher)
+- **Human Resources**: Male 33  | Female 37  | Unknown 3 
 
-- **Engineering**: Male 35  | Female 35  | Unknown 5  | (Males are 5.5% Higher)
+- **Engineering**: Male 35  | Female 35  | Unknown 5  
 
-- **Business Development**: Male 33  | Female 38  | Unknown 3  | (Females are 28% Higher)
+- **Business Development**: Male 33  | Female 38  | Unknown 3  
 
-- **Accounting**: Male 36  | Female 27  | Unknown 2  | (Males are 15% Higher)
+- **Accounting**: Male 36  | Female 27  | Unknown 2  
 
 ![Gender distribution by Dept](https://github.com/user-attachments/assets/0cf8e88e-1fc4-417c-a0e9-95245ebcf12d)
 
@@ -126,11 +126,11 @@ _**Gender Distribution By Departments**_
 
 _**Gender Distribution By Regions**_
 
-- **Abuja**: Male 144  | Female 144  | Unknown 16  |  (Females are 7.9% higher)
+- **Abuja**: Male 144  | Female 144  | Unknown 16 
 
-- **Kaduna**: Male 172  | Female 151  | Unknown 14  |  (Males are 10.3% higher)
+- **Kaduna**: Male 172  | Female 151  | Unknown 14 
 
-- **Lagos**: Male 114  | Female 111  | Unknown 8  |  (Males are 1.7% higher)
+- **Lagos**: Male 114  | Female 111  | Unknown 8 
 
 ![image](https://github.com/user-attachments/assets/b4aed707-6716-4af2-915e-a69523d2ee8d)
 
