@@ -126,11 +126,11 @@ _**Gender Distribution By Departments**_
 
 _**Gender Distribution By Regions**_
 
-- **Abuja**: Male 229  | Female 247  | Unknown 25  |  (Females are 7.9% higher)
+- **Abuja**: Male 144  | Female 144  | Unknown 16  |  (Females are 7.9% higher)
 
-- **Kaduna**: Male 257  | Female 233  | Unknown 24  |  (Males are 10.3% higher)
+- **Kaduna**: Male 172  | Female 151  | Unknown 14  |  (Males are 10.3% higher)
 
-- **Lagos**: Male 176  | Female 173  | Unknown 13  |  (Males are 1.7% higher)
+- **Lagos**: Male 114  | Female 111  | Unknown 8  |  (Males are 1.7% higher)
 
 
 ![Gender distribution by Region](https://github.com/user-attachments/assets/63bf141e-7652-4d21-99c7-de140b344550)
