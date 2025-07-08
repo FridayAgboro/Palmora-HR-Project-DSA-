@@ -132,7 +132,8 @@ _**Gender Distribution By Regions**_
 
 - **Lagos**: Male 114  | Female 111  | Unknown 8  |  (Males are 1.7% higher)
 
-![Gender distribution by Region](https://github.com/user-attachments/assets/7ad6d702-2ebf-40fc-9e44-bfb7daa9e0c0)
+![image](https://github.com/user-attachments/assets/b4aed707-6716-4af2-915e-a69523d2ee8d)
+
 
 
 
@@ -151,7 +152,7 @@ _**Gender Distribution By Regions**_
 
 - **Not Rated:** Female 32 | Male 27 | Unknown 2
 
-![Rating by Gender](https://github.com/user-attachments/assets/1f816665-549f-4e37-96c6-dcbc3a949618)
+![image](https://github.com/user-attachments/assets/efbe69a6-076b-4d18-b3f1-5d76c21bc5f6)
 
 
 
@@ -209,7 +210,9 @@ _**Gender Distribution By Regions**_
 -	**Accounting:** Female N2,875,760 |  Male N3,553,070  |  Unknown N312,230 |  Total N6,741,060
 
 
-![salary by gender by dept](https://github.com/user-attachments/assets/42bc0f80-a090-44eb-8e36-9d477c5bc3c0)
+![image](https://github.com/user-attachments/assets/0b4b6fd9-1b58-4173-bd46-26f06f8b6aa0)
+
+
 
   
 ### Numbers of Staff By Salary Band
