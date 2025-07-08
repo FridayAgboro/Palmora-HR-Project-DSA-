@@ -76,7 +76,7 @@ I used the "Card" to highlight major figures in my findings
 
 - **Total Numbers of Male Employees:** 430
 
-- **Total Employees Salary:** N33 Million
+- **Total Employees Salary:** N67 Million
 
 - **Number of Employees That Earn Over N90,000:** 307
   
