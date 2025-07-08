@@ -43,8 +43,6 @@ I used the "Card" to highlight major figures in my findings
 #### **Gender Distribution and Region**
 - I inserted the Clustered Bar Chart, put location on Y-Axis, count of name on X-Axis and gender on legend.
 
-
-
 #### **Gender Distribution and Department**
 - I inserted the Matrix Card, put Department on Row, Gender on Columns and Name on Value (filter to count).
 
@@ -96,29 +94,29 @@ Gender Distribution across Palmora Group is fairly balanced as indicated by my f
 
 _**Gender Distribution By Departments**_
 
-- **Training**: Male 61  | Female 55  | Unknown 4 | (Males are 10.9% Higher)
+- **Training**: Male 35  | Female 34  | Unknown 3 | (Males are 10.9% Higher)
   
-- **Support**: Male 54  | Female 50  | Unknown 5  | (Males are 8% Higher)
+- **Support**: Male 41  | Female 30  | Unknown 4  | (Males are 8% Higher)
 
-- **Services**: Male 54  | Female  62 | Unknown 5  | (Females are 14.4% Higher)
+- **Services**: Male 35  | Female  39 | Unknown 3  | (Females are 14.4% Higher)
 
-- **Sales**: Male 50  | Female 48  | Unknown 4  | (Males are 4.2% Higher)
+- **Sales**: Male 39  | Female 32  | Unknown 4  | (Males are 4.2% Higher)
 
-- **Research and Development**: Male 63  | Female 80  | Unknown 9  | (Females are 27% Higher)
+- **Research and Development**: Male 28  | Female 32  | Unknown 5  | (Females are 27% Higher)
 
-- **Product Management**: Male 65  | Female 61  | Unknown 1  | (Males are 6.6% Higher)
+- **Product Management**: Male 40  | Female 39  | Unknown 1  | (Males are 6.6% Higher)
 
-- **Marketing**: Male 53  | Female 48  | Unknown 2  | (Males are 10.4% Higher)
+- **Marketing**: Male 31  | Female 31  | Unknown 1  | (Males are 10.4% Higher)
 
-- **Legal**: Male 60  | Female 40  | Unknown 9  | (Males are 50% Higher)
+- **Legal**: Male 44  | Female 32  | Unknown 4  | (Males are 50% Higher)
 
-- **Human Resources**: Male 48  | Female 50  | Unknown 3  | (Females are 4.2% Higher)
+- **Human Resources**: Male 33  | Female 37  | Unknown 3  | (Females are 4.2% Higher)
 
-- **Engineering**: Male 58  | Female 55  | Unknown 12  | (Males are 5.5% Higher)
+- **Engineering**: Male 35  | Female 35  | Unknown 5  | (Males are 5.5% Higher)
 
-- **Business Development**: Male 50  | Female 64  | Unknown 5  | (Females are 28% Higher)
+- **Business Development**: Male 33  | Female 38  | Unknown 3  | (Females are 28% Higher)
 
-- **Accounting**: Male 46  | Female 40  | Unknown 3  | (Males are 15% Higher)
+- **Accounting**: Male 36  | Female 27  | Unknown 2  | (Males are 15% Higher)
 
 
 
