@@ -187,29 +187,30 @@ _**Gender Distribution By Regions**_
 
 ### Palmora Salary By Gender and Departments
 
--	**Training:** Female N4,344,390  |  Male N4,606,470  |  Unknown N339,510  |  Total N9,290,370
+-	Accounting Male ₦ 2,832,129 Female  ₦ 2,034,091 Unknown  ₦ 213,292
   
--	**Support:** Female N3,686,480 |  Male N4,269,460  |  Unknown N363,750 |  Total N8,319,690
+-	Business Development Male  ₦ 2,743,173 Female  ₦ 2,923,633 Unknown  ₦ 155,893
   
--	**Services:** Female N4,657,540 |  Male N4,367,180  |  Unknown N329,950 |  Total N9,354,670
+-	Engineering Male  ₦ 2,458,732 Female ₦ 2,707,862 Unknown  ₦ 414,046
   
--	**Sales:** Female N3,350,330 |  Male N3,616,280  |  Unknown N356,500 |  Total N7,323,110
+-	Human Resources Male  ₦ 2,529,724 Female  ₦ 2,555,019 Unknown ₦ 290,487
   
--	**Research and Development:** Female N5,413,270 |  Male N4,397,060  |  Unknown N707,810 |  Total N10,518,140
+-	Legal Male  ₦ 3,329,620 Female  ₦ 2,291,993 Unknown  ₦ 345,749
   
--	**Product Management:** Female N4,372,130 |  Male N5,097,190  |  Unknown N36,480 |  Total N9,505,800
+-	Marketing Male ₦ 2,351,428 Female  ₦ 2,548,813 Unknown  ₦ 106,399
   
--	**Marketing:** Female N3,754,680 |  Male N3,860,640  |  Unknown N211,740 |  Total N7,827,060
+-	Product Management Male  ₦ 3,019,817 Female  ₦ 2,872,998 Unknown  ₦ 37,647
   
--	**Legal:** Female N2,759,560 |  Male N4,348,270  |  Unknown N711,370 |  Total N7,819,200
+-	Research and Development  Male  ₦ 2,023,931 Female  ₦ 2,270,308 Unknown  ₦ 405,912
   
--	**Human Resources:** Female N3,308,790 |  Male N3,526,870  |  Unknown N282,850 |  Total N7,118,510
+-	Sales Male  ₦ 2,861,859 Female  ₦ 2,307,704 Unknown  ₦ 363,986
   
--	**Engineering:** Female N4,029,610 |  Male N4,014,490  |  Unknown N920,280 |  Total N8,964,380
+-	Services Male  ₦ 2,896,340 Female  ₦ 2,982,293 Unknown  ₦ 202,590
   
--	**Business Development:** Female N4,778,220 |  Male N4,213,510  |  Unknown N247,600 |  Total N9,239,330
+-	Support Male  ₦ 3,251,044 Female  ₦ 2,219,956 Unknown  ₦ 311,030
   
--	**Accounting:** Female N2,875,760 |  Male N3,553,070  |  Unknown N312,230 |  Total N6,741,060
+-	Training Male  ₦ 2,686,801 Female  ₦ 2,747,006 Unknown  ₦ 266,632
+
 
 
 ![image](https://github.com/user-attachments/assets/0b4b6fd9-1b58-4173-bd46-26f06f8b6aa0)
