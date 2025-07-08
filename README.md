@@ -139,17 +139,17 @@ _**Gender Distribution By Regions**_
 
 ## Insight on Ratings Based on Gender
 
-- **Very Good:** Female 105 | Male 74 | Unknown 10
+- **Very Good:** Female 44 | Male 32 | Unknown 5
   
-- **Good:** Female 188 | Male 167 | Unknown 19
+- **Good:** Female 82 | Male 73 | Unknown 8
 
-- **Avarage:** Female 190 | Male 212 | Unknown 18
+- **Avarage:** Female 180 | Male 203 | Unknown 17
 
-- **Poor:** Female 98 | Male 122 | Unknown 6
+- **Poor:** Female 49 | Male 64 | Unknown 3
 
-- **Very Poor:** Female 37 | Male 53 | Unknown 7
+- **Very Poor:** Female 19 | Male 31 | Unknown 3
 
-- **Not Rated:** Female 35 | Male 34 | Unknown 2
+- **Not Rated:** Female 32 | Male 27 | Unknown 2
 
 ![gender by rating](https://github.com/user-attachments/assets/22ba761b-533b-4d74-9119-62f1496f317f)
 
