@@ -94,6 +94,7 @@ Gender Distribution across Palmora Group is fairly balanced as indicated by my f
 
 _**Gender Distribution By Departments**_
 
+
 - **Training**: Male 35  | Female 34  | Unknown 3 | (Males are 10.9% Higher)
   
 - **Support**: Male 41  | Female 30  | Unknown 4  | (Males are 8% Higher)
@@ -118,9 +119,8 @@ _**Gender Distribution By Departments**_
 
 - **Accounting**: Male 36  | Female 27  | Unknown 2  | (Males are 15% Higher)
 
+![Gender distribution by Dept](https://github.com/user-attachments/assets/0cf8e88e-1fc4-417c-a0e9-95245ebcf12d)
 
-
-![Gender distribution by Dept](https://github.com/user-attachments/assets/9006e8b1-4452-42ff-9a65-a454c6eb4aad)
 
 
 
@@ -132,8 +132,8 @@ _**Gender Distribution By Regions**_
 
 - **Lagos**: Male 114  | Female 111  | Unknown 8  |  (Males are 1.7% higher)
 
+![Gender distribution by Region](https://github.com/user-attachments/assets/7ad6d702-2ebf-40fc-9e44-bfb7daa9e0c0)
 
-![Gender distribution by Region](https://github.com/user-attachments/assets/63bf141e-7652-4d21-99c7-de140b344550)
 
 
 
@@ -151,7 +151,7 @@ _**Gender Distribution By Regions**_
 
 - **Not Rated:** Female 32 | Male 27 | Unknown 2
 
-![gender by rating](https://github.com/user-attachments/assets/22ba761b-533b-4d74-9119-62f1496f317f)
+![Rating by Gender](https://github.com/user-attachments/assets/1f816665-549f-4e37-96c6-dcbc3a949618)
 
 
 
@@ -159,16 +159,16 @@ _**Gender Distribution By Regions**_
 
 ### Palmora Total Salary
 
-- N102,021,320
-
+- N67 Million - Approximately (N66,559,937 Actual Figure)
+  
 
 ### Palmora Total Salary By Gender
 
-- **Female:** N47,330,760
+- **Female:** N30,461,663
   
-- **Male:** N49,870,490
+- **Male:** N32,984,598
   
-- **Unknown:** N4,820,070
+- **Unknown:** N3,113,663
 
 
 ### Palmora Salary By Gender and Regions
