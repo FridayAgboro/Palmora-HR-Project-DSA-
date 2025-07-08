@@ -165,9 +165,9 @@ _**Gender Distribution By Regions**_
 
 ### Palmora Total Salary By Gender
 
-- **Female:** N30,461,663
-  
 - **Male:** N32,984,598
+  
+- **Female:** N30,461,676
   
 - **Unknown:** N3,113,663
 
