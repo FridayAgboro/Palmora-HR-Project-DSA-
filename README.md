@@ -88,7 +88,7 @@ I used the "Card" to highlight major figures in my findings
   
 
 
-## Gender Distribution
+### Gender Distribution
 Gender Distribution across Palmora Group has a bias of 430 Male to 406 Female by my findings.
 
 _**Gender Distribution By Departments**_
@@ -135,9 +135,7 @@ _**Gender Distribution By Regions**_
 
 
 
-
-
-## Insight on Ratings Based on Gender
+### Insight on Ratings Based on Gender
 
 - **Very Good:** Female 44 | Male 32 | Unknown 5
   
@@ -155,14 +153,14 @@ _**Gender Distribution By Regions**_
 
 
 
-## Analysis of Palmora Salary Structure
+### Analysis of Palmora Salary Structure
 
-### Palmora Total Salary
+#### *Palmora Total Salary*
 
 - N67 Million - Approximately (N66,559,937 Actual Figure)
   
 
-### Palmora Total Salary By Gender
+#### *Palmora Total Salary By Gender*
 
 - **Male:** N32,984,598
   
@@ -173,7 +171,7 @@ _**Gender Distribution By Regions**_
 ![image](https://github.com/user-attachments/assets/606a52bf-bd07-45cf-ae89-e38849f3722a)
 
 
-### Palmora Salary By Gender and Regions
+#### *Palmora Salary By Gender and Regions*
 
 -	**Abuja:** Female N10,185,370   |  Male N10,600,240  |  Unknown N1,215,440
   
@@ -184,7 +182,7 @@ _**Gender Distribution By Regions**_
 ![image](https://github.com/user-attachments/assets/2a140041-a1c4-4570-883f-c1a47d25b393)
 
 
-### Palmora Salary By Gender and Departments
+#### *Palmora Salary By Gender and Departments*
 
 -	**Accounting Male:** ₦ 2,832,129 | Female  ₦ 2,034,091 | Unknown  ₦ 213,292
   
@@ -217,7 +215,7 @@ _**Gender Distribution By Regions**_
 
 
   
-### Numbers of Staff By Salary Band
+#### *Numbers of Staff By Salary Band*
 
 -	**90000 and above:** 304
 
@@ -242,22 +240,25 @@ _**Gender Distribution By Regions**_
 ![No of employee by sal band](https://github.com/user-attachments/assets/a8dc70a0-1afd-4d5a-8a58-83e74423496a)
 
 
-## Average Salary 
+### Average Salary 
 
 - Average Salary is: N76,155.53
-
-### Average Salary by Region
-
   
 
-### Average Salary by Department and Gender
+#### *Average Salary by Region*
+
+![image](https://github.com/user-attachments/assets/bc1bd556-aa05-43e9-8b9a-5deb09702e63)
+
+
+#### *Average Salary bye Department and Gender*
 
 ![image](https://github.com/user-attachments/assets/a67b60bc-ca46-4a95-818c-3c7609205214)
 
 
 
 ### How Palmora stand in relation to N90,000 Minimum Wage for Manufacturing Companies
-Palmora did not meet the industry standard of N90,000 minimum wage, as my analysis reveals that of the **874** Employees of Palmora, only **304** earn N90,000 and above while a huge number of **570** earn below N90,000.
+- Palmora did not meet the industry standard of N90,000 minimum wage, as my analysis reveals that of the **874** Employees of Palmora, only **304** earn N90,000 and above while a huge number of **570** earn below N90,000.
+- The average salary in Palmoa Group is N76,155.53.
 
 
 ![no of staff above 90000](https://github.com/user-attachments/assets/89ec046d-8fde-4525-9e17-2356be921e05)
@@ -266,7 +267,7 @@ Palmora did not meet the industry standard of N90,000 minimum wage, as my analys
 ## Recommendations
 - Palmora Group have a Gender bias of **430 Male Enployees** to **406 Female Employees**. This needs to be looked at especially in the Legal Department where Males are 73% Higher.
 - Palmora should adopt a policy of full dislosure of gender status, this would help in getting a more acurate gender disperity status in the establishment as **38** employees did not disclose their gender and this figure is higher than the difference between the male and female gender which is 24. If full disclosure had been made, probably, there won't be gender disparity or the gender disparity could go either way.
-- Palmora Group needd to increase employees salary to meet the industry standard of a minimum salary of N90,000. Of the total **874** employees, only **304** earn N90,000 and above, while **570** employees earn below the N90,000 industry standard.
+- Palmora Group needd to increase employees salary to meet the industry standard of a minimum salary of N90,000. Of the total **874** employees, only **304** earn N90,000 and above, while **570** employees earn below the N90,000 industry standard. The average salary is N76,155.53
 - There are fewer Employees in Lagos Region compare to employees in others locations this needs to be looked at.
   
 
