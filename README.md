@@ -242,6 +242,20 @@ _**Gender Distribution By Regions**_
 ![No of employee by sal band](https://github.com/user-attachments/assets/a8dc70a0-1afd-4d5a-8a58-83e74423496a)
 
 
+## Average Salary 
+
+- Average Salary is: N76,155.53
+
+### Average Salary by Region
+
+  
+
+### Average Salary by Department and Gender
+
+![image](https://github.com/user-attachments/assets/a67b60bc-ca46-4a95-818c-3c7609205214)
+
+
+
 ### How Palmora stand in relation to N90,000 Minimum Wage for Manufacturing Companies
 Palmora did not meet the industry standard of N90,000 minimum wage, as my analysis reveals that of the **874** Employees of Palmora, only **304** earn N90,000 and above while a huge number of **570** earn below N90,000.
 
