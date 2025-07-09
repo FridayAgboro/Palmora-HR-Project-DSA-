@@ -251,8 +251,8 @@ Palmora did not meet the industry standard of N90,000 minimum wage, as my analys
 
 ## Recommendations
 - Palmora Group have a Gender bias of **430 Male Enployees** to **406 Female Employees**. This needs to be looked at especially in the Legal Department where Males are 73% Higher.
-- Palmora should adopt a policy of full dislosure of gender status, this would help in getting a more acurate gender disperity status in the establishment. (
-- Palmora Group needd to increase employees salary to meet the industry standard of a minimum salary on N90,000.
+- Palmora should adopt a policy of full dislosure of gender status, this would help in getting a more acurate gender disperity status in the establishment as **38** employees did not disclose their gender and this figure is higher than the difference between the male and female gender which is 24. If full disclosure had been made, probably, there won't be gender disparity or the gender disparity could go either way.
+- Palmora Group needd to increase employees salary to meet the industry standard of a minimum salary of N90,000. Of the total **874** employees, only **304** earn N90,000 and above, while **570** employees earn below the N90,000 industry standard.
 - There are fewer Employees in Lagos Region compare to employees in others locations this needs to be looked at.
   
 
