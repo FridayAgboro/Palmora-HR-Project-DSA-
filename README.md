@@ -24,7 +24,9 @@ To assist HR professionals and data analysts in identifying key workforce insigh
 - **Creating the Bonus Rules** I used merge query then selected the Employee File first and also selected the Bonus rules file after which I select the columns similar to both of them.
 - **I used custom column** To create a Bonus Column
 - **I used Condition column** To create other columns like (New Salary, Salary Above 90000, Salary Groupng - which I used as Salary Band)
-
+- **I removed the duplicate rows** I selected the name column, department column and salary column and clicked remove duplicate.
+- At the end of the cleaning, the numbers of employees reduced to **874**.
+  
 ![Pal Additional column](https://github.com/user-attachments/assets/0d8704e1-c3c6-492f-9537-b0664eb31883)
 
 
@@ -64,8 +66,7 @@ I used the "Card" to highlight major figures in my findings
 
 ## Dashboard
 
-![DASHBOARD](https://github.com/user-attachments/assets/6fa95dad-2c28-4cb1-9a9b-9088b71f4129)
-
+<img width="888" height="494" alt="DASHBOARD" src="https://github.com/user-attachments/assets/7df74792-c428-41b7-9d6f-9f51d7c5485f" />
 
 
 ## My Findings
