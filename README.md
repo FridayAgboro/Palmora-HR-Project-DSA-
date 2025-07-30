@@ -64,9 +64,18 @@ I used the "Card" to highlight major figures in my findings
 - I inserted Matrix, put Salary above N90,000 on Row, Location on Columns, Name on Value (filter to count).
 
 
-## Dashboard
+## Dashboards
+- **Dashboard 1**
 
-<img width="888" height="494" alt="DASHBOARD" src="https://github.com/user-attachments/assets/7df74792-c428-41b7-9d6f-9f51d7c5485f" />
+![dasboard 1](https://github.com/user-attachments/assets/4f199c72-df6e-478a-aa2c-77a6a5164ee9)
+
+- **Dashboard 2**
+
+![dasboard 2](https://github.com/user-attachments/assets/534bcecb-3505-47f3-978d-a39e4cc0040f)
+
+- **Dashboard 3**
+- 
+![dasboard 3](https://github.com/user-attachments/assets/8809ed01-7c01-4cbf-8ece-3890170e20a4)
 
 
 ## My Findings
@@ -78,6 +87,10 @@ I used the "Card" to highlight major figures in my findings
 - **Total Numbers of Male Employees:** 430
 
 - **Total Employees Salary:** N67 Million
+
+- **Highest Paid employee:** Evangelia Growers | N127,097
+
+- **Highest Bonus Earner:** Chrisy Kyme | N9,821
 
 - **Number of Employees That Earn Over N90,000:** 307
   
