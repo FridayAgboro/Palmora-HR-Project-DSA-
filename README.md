@@ -227,7 +227,6 @@ _**Gender Distribution By Regions**_
 ![image](https://github.com/user-attachments/assets/0b4b6fd9-1b58-4173-bd46-26f06f8b6aa0)
 
 
-
   
 #### *Numbers of Staff By Salary Band*
 
