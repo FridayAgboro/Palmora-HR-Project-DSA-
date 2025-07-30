@@ -74,7 +74,7 @@ I used the "Card" to highlight major figures in my findings
 ![dasboard 2](https://github.com/user-attachments/assets/534bcecb-3505-47f3-978d-a39e4cc0040f)
 
 - **Dashboard 3**
-- 
+  
 ![dasboard 3](https://github.com/user-attachments/assets/8809ed01-7c01-4cbf-8ece-3890170e20a4)
 
 
@@ -263,9 +263,16 @@ _**Gender Distribution By Regions**_
 ![image](https://github.com/user-attachments/assets/bc1bd556-aa05-43e9-8b9a-5deb09702e63)
 
 
+#### *Total Salary by Region*
+
+<img width="212" height="81" alt="image" src="https://github.com/user-attachments/assets/37a13e45-563d-48ae-b134-7712066aa15a" />
+
+
 #### *Average Salary bye Department and Gender*
 
 ![image](https://github.com/user-attachments/assets/a67b60bc-ca46-4a95-818c-3c7609205214)
+
+
 
 
 #### *Organization-wide Individual Salaries*
@@ -276,6 +283,7 @@ _**Gender Distribution By Regions**_
 #### *Organization-wide Individual Bonuses*
 
 ![Bonus](https://github.com/user-attachments/assets/b7aedea1-d727-43aa-8949-37a10cf89997)
+
 
 
 ### How Palmora stand in relation to N90,000 Minimum Wage for Manufacturing Companies
