@@ -309,6 +309,7 @@ Friday Agboro ( Brand Management  |  Graphics Designer | PowerPoint Presentation
 ## Contact
 - Phone: +234 08059002119
 - Email: widercoast@gmail.com
+- I'm available for immediate employment or to handle your data analysis jobs
 
 
 THank you
