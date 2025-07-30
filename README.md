@@ -269,6 +269,15 @@ _**Gender Distribution By Regions**_
 ![image](https://github.com/user-attachments/assets/a67b60bc-ca46-4a95-818c-3c7609205214)
 
 
+#### *Organization-wide Individual Salaries*
+
+![individual salary](https://github.com/user-attachments/assets/0750eccb-673b-4d54-b41c-6b7c2d332bd6)
+
+
+#### *Organization-wide Individual Bonuses*
+
+![Bonus](https://github.com/user-attachments/assets/b7aedea1-d727-43aa-8949-37a10cf89997)
+
 
 ### How Palmora stand in relation to N90,000 Minimum Wage for Manufacturing Companies
 - Palmora did not meet the industry standard of N90,000 minimum wage, as my analysis reveals that of the **874** Employees of Palmora, only **304** earn N90,000 and above while a huge number of **570** earn below N90,000.
@@ -283,7 +292,9 @@ _**Gender Distribution By Regions**_
 - Palmora should adopt a policy of full dislosure of gender status, this would help in getting a more acurate gender disperity status in the establishment as **38** employees did not disclose their gender and this figure is higher than the difference between the male and female gender which is 24. If full disclosure had been made, probably, there won't be gender disparity or the gender disparity could go either way.
 - Palmora Group needd to increase employees salary to meet the industry standard of a minimum salary of N90,000. Of the total **874** employees, only **304** earn N90,000 and above, while **570** employees earn below the N90,000 industry standard. The average salary is N76,155.53
 - There are fewer Employees in Lagos Region compare to employees in others locations this needs to be looked at.
-  
+
+
+## Please Note: You can fine The Completed Power BI File as an Upload to this Repository
 
 ## About Me
 Friday Agboro ( Brand Management  |  Graphics Designer | PowerPoint Presentation Formatting |  Data Analyst )
