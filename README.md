@@ -1,5 +1,7 @@
 # Palmora Group HR Project (DSA)
-This project is about the Palmora Group, a manufacturing company based in Nigeria, that is embroiled in issues bordering on gender inequality in its 3 regions.  I am looking to providing solution to the gender issues with my analysis of the HR dataset provided.
+This project is about Palmora Group, a manufacturing company based in Nigeria, which is embroiled in issues bordering on gender inequality in its 3 regions, issues on whether there is salary disparity betweens the two genders, and also issues on whether Palmora group as a manufacturing company meets the industry standards for manufacturing companies operating in Nigeria.  
+
+In this project, I would be analyzing the HR data-sets provided using various data analysis tools and present my findings and recoommendations at the end, which would help the HR department deal with the issues raised come up with informed decisions that would better position Palmora Group to remain competitive in the industry.
 
 
 ## Project Goals
@@ -20,7 +22,7 @@ To assist HR professionals and data analysts in identifying key workforce insigh
 
 ## Data Cleaning Process
 - **Ingestion:** Getting the Data Set into Power Query Environment
-- **TransformationUsing:** On the Gender Column, I replaced value blank with Unknown. I delected the rows with "null" under department column by unchecking "null" in the drop-down on the column. I also deleted the blank row in the salary column by unchecking the "blank" in the drop-down on the salary column.  I selected the department column and unpivot other columns. I brought in the "Palmora Group Bonus Rules" file.
+- **TransformationUsing:** On the Gender Column, I replaced rows that had blank gender with Unknown. I deleted the rows with "null" under department column by unchecking "null" in the drop-down on the column. I also deleted the blank rows in the salary column by unchecking the "blank" in the drop-down on the salary column.  I selected the department column and unpivot other columns. I uploaded the "Palmora Group Bonus Rules" file.
 - **Creating the Bonus Rules** I used merge query then selected the Employee File first and also selected the Bonus rules file after which I select the columns similar to both of them.
 - **I used custom column** To create a Bonus Column
 - **I used Condition column** To create other columns like (New Salary, Salary Above 90000, Salary Groupng - which I used as Salary Band)
