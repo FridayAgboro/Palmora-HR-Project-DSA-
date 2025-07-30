@@ -1,5 +1,5 @@
 # Palmora Group HR Project (DSA)
-This project is about Palmora Group, a manufacturing company based in Nigeria, which is embroiled in issues bordering on gender inequality in its 3 regions, issues on whether there is salary disparity betweens the two genders, and also issues on whether Palmora group as a manufacturing company meets the industry standards for manufacturing companies operating in Nigeria.  
+This project is about Palmora Group, a manufacturing company based in Nigeria, which is embroiled in issues bordering on gender inequality in its 3 regions, issues on whether there is salary disparity between the two genders, and also issues on whether Palmora group as a manufacturing company meets the industry standards for manufacturing companies operating in Nigeria.  
 
 In this project, I would be analyzing the HR data-sets provided using various data analysis tools and present my findings and recoommendations at the end, which would help the HR department deal with the issues raised, and come up with informed decisions that would better position Palmora Group to remain competitive in the industry.
 
