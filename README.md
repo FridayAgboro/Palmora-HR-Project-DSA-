@@ -251,7 +251,7 @@ Generally, the Female employees have better ratings than the male employees as s
 
 -	**70001 – 80000:** 115
   
--	**80001 – 90000:** 115
+-	**80001 – 90000:** 89
 
 -	**90001 - 100000:** 88
   
