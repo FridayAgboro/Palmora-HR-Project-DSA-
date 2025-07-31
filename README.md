@@ -49,25 +49,25 @@ To assist HR professionals and data analysts in identifying key workforce insigh
 9. **Total Numbers of Departments:** I inserted the card, selected Department, set it to count of department and filtered it to distint count.
 10. **Total Numbers of Regions:** I inserted the card, selected Location, set it to count of Location and filtered it to distint count.
 
-#### **Gender Distribution and Region**
+#### _**Gender Distribution and Region**_
 - This was done by inserting the Clustered Bar Chart, then put location on Y-Axis, count of name on X-Axis and gender on legend.
 
-#### **Gender Distribution and Department**
+#### _**Gender Distribution and Department**_
 - I inserted the Matrix Card, put Department on Row, Gender on Columns and Name on Value (filter to count).
 
-#### **Rating By Gender**
+#### _**Rating By Gender**_
 - I inserted the 100% Stacked Chart, put Ratings on Y-Axis, Name on X-Axis (filter to count) and Gender on Legend.
 
-#### **Salary by Deprtment and Gender**
+#### _**Salary by Deprtment and Gender**_
 - I inserted the Stacked Bar Chart, put Department on Y-Axis, New Salary on X-Axis (filter to sum) and Gender on Legend.
 
-#### **Numbers of Employees by Salary Band**
+#### _**Numbers of Employees by Salary Band**_
 - I inserted the Stacked Bar Chart, put Salary Grouping on X-Axis, Salary Grouping on X-Axis (filter to count).
 
-#### **Numbers of Gender by Rating**
+#### _**Numbers of Gender by Rating**_
 - I inserted Matrix, put Rating on Row, Gender on Columns, Rating on Value (filter to count).
 
-#### **Numbers of Employees that Earn Above and Below N90,000**
+#### _**Numbers of Employees that Earn Above and Below N90,000**_
 - I inserted Matrix, put Salary above N90,000 on Row, Location on Columns, Name on Value (filter to count).
 
 
@@ -305,12 +305,13 @@ Generally, the Female employees have better ratings than the male employees as s
 
 ## Recommendations
 - Palmora Group have a Gender bias of **430 Male Enployees** to **406 Female Employees**. This needs to be looked at especially in the Legal Department where Males are 73% Higher.
+- Female employees needs to the appreciated more as findngs from rating shows they contribute better to the organisation than the male employees. (Female employees have better ratings).
 - Palmora should adopt a policy of full dislosure of gender status, this would help in getting a more acurate gender disperity status in the establishment as **38** employees did not disclose their gender and this figure is higher than the difference between the male and female gender which is 24. If full disclosure had been made, probably, there won't be gender disparity or the gender disparity could go either way.
 - Palmora Group needd to increase employees salary to meet the industry standard of a minimum salary of N90,000. Of the total **874** employees, only **304** earn N90,000 and above, while **570** employees earn below the N90,000 industry standard. The average salary is N76,155.53
 - There are fewer Employees in Lagos Region compare to employees in others locations this needs to be looked at.
 
 
-### Please Note: You can fine The Completed Power BI File as an Upload to this Repository
+### _Please Note: You can fine The Completed Power BI File as an Upload to this Repository_
 
 ## About Me
 Friday Agboro ( Brand Management  |  Graphics Designer | PowerPoint Presentation Formatting |  Data Analyst )
