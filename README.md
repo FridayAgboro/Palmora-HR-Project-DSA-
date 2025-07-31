@@ -50,7 +50,7 @@ To assist HR professionals and data analysts in identifying key workforce insigh
 10. **Total Numbers of Regions:** I inserted the card, selected Location, set it to count of Location and filtered it to distint count.
 
 #### **Gender Distribution and Region**
-- I inserted the Clustered Bar Chart, put location on Y-Axis, count of name on X-Axis and gender on legend.
+- This was done by inserting the Clustered Bar Chart, then put location on Y-Axis, count of name on X-Axis and gender on legend.
 
 #### **Gender Distribution and Department**
 - I inserted the Matrix Card, put Department on Row, Gender on Columns and Name on Value (filter to count).
@@ -157,6 +157,8 @@ _**Gender Distribution By Regions**_
 
 
 ### Insight on Ratings Based on Gender
+
+Generally, the Female employees have better ratings than the male employees as shown below, where the female are more rated "Very Good" and "Good", while male are more rated "Average", "Poor", and "Very Poor". This is an indication that Female employees contribute better to Palmora Group's goals than the Male employees.
 
 - **Very Good:** Female 44 | Male 32 | Unknown 5
   
@@ -308,7 +310,7 @@ _**Gender Distribution By Regions**_
 - There are fewer Employees in Lagos Region compare to employees in others locations this needs to be looked at.
 
 
-## Please Note: You can fine The Completed Power BI File as an Upload to this Repository
+### Please Note: You can fine The Completed Power BI File as an Upload to this Repository
 
 ## About Me
 Friday Agboro ( Brand Management  |  Graphics Designer | PowerPoint Presentation Formatting |  Data Analyst )
