@@ -38,16 +38,16 @@ To assist HR professionals and data analysts in identifying key workforce insigh
 
 
 ## Creating the Dashboard
-Started the creation of the Dashboard by Inserting a "Text Box" at the top of the Canvas and Typed in the Project Title and my name.
-I used the "Card" to highlight major figures in my findings
-1. **Total Number of Employees:** I inserted the card, selected Name and set it to count of name.
-2. **Number of Female Employees:** I inserted the card, selected Gender, set it to count of gender and filter it to female.
-3. **Number of Male Employees:** I inserted the card, selected Gender, set it to count of gender and filter it to male.
-4. **Total Anual Salary:** I inserted the card, selected New Salary, set it to sum of new salary.
-5. **Numbers of Employees that earn over N90,000:** I inserted the card, selected Salary above 90000, set it to count of salary above 90000 and filtered it to above 90000.
-6. **Numbers of Employees that earn below N90,000:** I inserted the card, selected Salary above 90000, set it to count of salary above 90000 and filtered it to below 90000.
-7. **Total Numbers of Departments:** I inserted the card, selected Department, set it to count of department and filtered it to distint count.
-8. **Total Numbers of Regions:** I inserted the card, selected Location, set it to count of Location and filtered it to distint count.
+1. The Dashboard creation started by insertion of a "Text Box" at the top of the Canvas and putting the Project Title and my name on it.
+2. I used the "Card" to highlight major figures in my findings
+3. **Total Number of Employees:** I inserted the card, selected Name and set it to count of name.
+4. **Number of Female Employees:** I inserted the card, selected Gender, set it to count of gender and filter it to female.
+5. **Number of Male Employees:** I inserted the card, selected Gender, set it to count of gender and filter it to male.
+6. **Total Anual Salary:** I inserted the card, selected New Salary, set it to sum of new salary.
+7. **Numbers of Employees that earn over N90,000:** I inserted the card, selected Salary above 90000, set it to count of salary above 90000 and filtered it to above 90000.
+8. **Numbers of Employees that earn below N90,000:** I inserted the card, selected Salary above 90000, set it to count of salary above 90000 and filtered it to below 90000.
+9. **Total Numbers of Departments:** I inserted the card, selected Department, set it to count of department and filtered it to distint count.
+10. **Total Numbers of Regions:** I inserted the card, selected Location, set it to count of Location and filtered it to distint count.
 
 #### **Gender Distribution and Region**
 - I inserted the Clustered Bar Chart, put location on Y-Axis, count of name on X-Axis and gender on legend.
