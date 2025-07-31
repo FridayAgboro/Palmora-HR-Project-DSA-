@@ -239,27 +239,35 @@ Generally, the Female employees have better ratings than the male employees as s
   
 #### *Numbers of Staff By Salary Band*
 
--	**90000 and above:** 304
+-	**20001 – 30000:** 9
+  
+-	**30001 – 40000:** 101
 
--	**70100 – 80000:** 115
+-	**40001 – 50000:** 94
 
--	**30100 – 40000:** 101
+-	**50001 – 60000:**  83
 
--	**40100 – 50000:** 94
+-	**60001 – 70000:** 79
 
--	**80100 – 90000:** 89
+-	**70001 – 80000:** 115
+  
+-	**80001 – 90000:** 115
 
--	**50100 – 60000:**  83
+-	**90001 - 100000:** 88
+  
+- **100001 - 110000:** 87
+  
+- **110001 - 120000:** 96
+  
+- **120001 - 130000:** 33
 
--	**60100 – 70000:** 79
-
--	**20100 – 30000:** 9
+  
 
 
-![image](https://github.com/user-attachments/assets/6aada314-1819-4ca4-91be-bd8dbd6f602e)
+![SalaryBand](https://github.com/user-attachments/assets/ee8bf502-8841-47c0-b11a-5f52c65de82e)
 
 
-![No of employee by sal band](https://github.com/user-attachments/assets/a8dc70a0-1afd-4d5a-8a58-83e74423496a)
+<img width="274" height="241" alt="image" src="https://github.com/user-attachments/assets/c998014c-ad0b-46fe-909d-06f4287e800a" />
 
 
 ### Average Salary 
